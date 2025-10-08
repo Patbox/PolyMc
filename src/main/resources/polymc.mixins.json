@@ -92,6 +92,7 @@
     "item.recipe.RecipePropertySetMixin",
     "item.recipe.SlotDisplayMixin",
     "item.recipe.TagSlotDisplayMixin",
+    "tag.SerializedAccessor",
     "tag.SynchronizeTagsMixin",
     "wizards.EntityAccessor",
     "wizards.EntityMixin",
